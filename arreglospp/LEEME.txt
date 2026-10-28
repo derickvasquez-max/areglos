@@ -1,0 +1,6 @@
+CÓMO EJECUTAR EN VISUAL STUDIO CODE
+1) Abre esta carpeta en VS Code (Archivo > Abrir carpeta).
+2) Abre la terminal (Ctrl + ñ) y ejecuta:   php -S localhost:8000
+3) Entra en el navegador a:  http://localhost:8000
+(Requiere PHP 8+ instalado. También funciona copiando la carpeta a htdocs de XAMPP.)
+Los proyectos usan Bootstrap 5 por CDN (se necesita internet).
